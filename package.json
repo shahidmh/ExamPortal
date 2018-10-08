@@ -16,5 +16,9 @@
     "mongoose": "5.2.14",
     "mongoose-random": "0.1.1",
     "mongoose-simple-random": "0.4.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/npm/cli.git"
   }
 }
